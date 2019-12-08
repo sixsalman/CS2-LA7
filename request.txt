@@ -1,0 +1,8 @@
+Jeremy Anderson,Senior,ECE,CS,1040,3.2,3,3.1,2,4.0,3,3.6,2
+Jeremy Anderson,Senior,ECE,CS,1060,3.2,3,3.1,2,4.0,3,3.6,2
+Peter Bond,Junior,CS,CS,1060,3.0,3,3.0,2,3.9,3,3.5,2
+Peter Bond,Junior,CS,CS,1040,3.0,3,3.0,2,3.9,3,3.5,2
+Jonah Fish, Senior,CS,CS,1060,3.1,2,3.4,2,4.0,3,3.7,2
+Jonah Fish, Senior,CS,CS,1040,3.1,2,3.4,2,4.0,3,3.7,2
+Jonathan Fin,Freshman,CS,CS,1040,3.9,2,3.8,3,4.0,3,3.8,3
+Jonathan Fin,Freshman,CS,CS,1060,3.9,2,3.8,3,4.0,3,3.8,3
